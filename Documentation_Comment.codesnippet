@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>/**
+ * Method name: &lt;#name#&gt;
+ * Description: &lt;#description#&gt;
+ * Parameters: &lt;#parameters#&gt;
+ */</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7FE50893-FE18-4FBB-BE99-17F3E2322263</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Generates objective-c doc comment automatically.</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Method Documentation Comment</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
