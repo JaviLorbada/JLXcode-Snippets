@@ -9,7 +9,7 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSCAssert(&lt;# assertion #&gt;), @"&lt;# error #&gt;");</string>
+		<string>NSCAssert(&lt;# assertion #&gt;), @"&lt;# error #&gt;");</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FF000C7C-5FCE-4960-9ABB-51507F2CC240</string>
 	<key>IDECodeSnippetLanguage</key>

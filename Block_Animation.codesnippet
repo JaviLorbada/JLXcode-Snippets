@@ -11,8 +11,8 @@
 	<key>IDECodeSnippetContents</key>
 	<string> [UIView animateWithDuration:&lt;#duration#&gt; animations:^{
      &lt;#code#&gt;
- } completion:^(BOOL finished) {
- }];</string>
+ 	} completion:^(BOOL finished) {
+	}];</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A858B244-50CD-40EE-AA15-BCE28179F6DB</string>
 	<key>IDECodeSnippetLanguage</key>

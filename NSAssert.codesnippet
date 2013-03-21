@@ -9,7 +9,7 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSAssert(&lt;# assertion #&gt;, @"&lt;# error #&gt;");</string>
+		<string>NSAssert(&lt;# assertion #&gt;, @"&lt;# error #&gt;");</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1E284288-C791-4DDA-A542-D04C999BD91D</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -13,7 +13,7 @@
     dispatch_async(dispatch_get_main_queue(), ^(void) {
         &lt;#code#&gt;
     });
-});</string>
+	});</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>392F2048-9EB7-4C17-BBD0-624CC79CBA99</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>NSDictionary *userInfo = @{&lt;#key#&gt;: &lt;#object, ...#&gt;}
-[[NSNotificationCenter defaultCenter] postNotificationName:&lt;#name#&gt; object:nil userInfo:userInfo];</string>
+		[[NSNotificationCenter defaultCenter] postNotificationName:&lt;#name#&gt; object:nil userInfo:userInfo];</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4A5786A5-922A-4F23-9AF9-C574CB143D90</string>
 	<key>IDECodeSnippetLanguage</key>

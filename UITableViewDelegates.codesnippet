@@ -9,34 +9,34 @@
 	<key>IDECodeSnippetContents</key>
 	<string>#pragma mark - UITableViewDataSource Methods
 
-- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
-    return &lt;#number#&gt;;
-}
+	- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
+	    return &lt;#number#&gt;;
+	}
 
-- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-    return &lt;#number#&gt;
-}
+	- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
+	    return &lt;#number#&gt;
+	}
 
-- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-    static NSString *CellIdentifier = @"Cell";
-    
-    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier];
-    if (!cell) {
-        cell = [[UITableViewCell alloc] initWithStyle:&lt;#(UITableViewCellStyle)#&gt; reuseIdentifier:CellIdentifier];
-    }
-    
-    return cell;
-}
+	- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
+	    static NSString *CellIdentifier = @"Cell";
+	    
+	    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier];
+	    if (!cell) {
+	        cell = [[UITableViewCell alloc] initWithStyle:&lt;#(UITableViewCellStyle)#&gt; reuseIdentifier:CellIdentifier];
+	    }
+	    
+	    return cell;
+	}
 
-- (void)configureCell:(UITableViewCell *)cell forRowAtIndexPath:(NSIndexPath *)indexPath {
-    &lt;#statements#&gt;
-}
+	- (void)configureCell:(UITableViewCell *)cell forRowAtIndexPath:(NSIndexPath *)indexPath {
+	    &lt;#statements#&gt;
+	}
 
-#pragma mark - UITableViewDelegate
+	#pragma mark - UITableViewDelegate
 
-- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-    &lt;#statements#&gt;
-}</string>
+	- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
+	    &lt;#statements#&gt;
+	}</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>51A6820E-A13F-4577-A2CB-E96533CC41B7</string>
 	<key>IDECodeSnippetLanguage</key>
