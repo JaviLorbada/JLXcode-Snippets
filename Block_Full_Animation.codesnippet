@@ -13,7 +13,7 @@
 	[UIView animateWithDuration:&lt;#duration#&gt; delay:&lt;#delay#&gt; options:options animations:^{
 	    &lt;#code#&gt;
 	} completion:^(BOOL finished) {
-	}];</string>
+}];</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>37E53BB3-2CE0-4F0F-93D7-8CE9D5B062E5</string>
 	<key>IDECodeSnippetLanguage</key>

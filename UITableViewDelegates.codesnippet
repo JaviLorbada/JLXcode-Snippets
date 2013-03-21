@@ -32,7 +32,7 @@
 	    &lt;#statements#&gt;
 	}
 
-	#pragma mark - UITableViewDelegate
+#pragma mark - UITableViewDelegate
 
 	- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
 	    &lt;#statements#&gt;

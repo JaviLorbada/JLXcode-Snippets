@@ -11,7 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>dispatch_sync(dispatch_get_main_queue(), ^{
     &lt;#code#&gt; 
-	});
+});
 	</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DispatchMain</string>

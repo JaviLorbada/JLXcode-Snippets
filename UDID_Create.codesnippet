@@ -9,9 +9,9 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-		<string>    CFUUIDRef uuid = CFUUIDCreate(NULL);
-	    CFStringRef uuidStr = CFUUIDCreateString(NULL, uuid);
-	    NSString *uniqueIdentifier = [NSString stringWithFormat:@"%@", uuidStr];</string>
+	<string>CFUUIDRef uuid = CFUUIDCreate(NULL);
+CFStringRef uuidStr = CFUUIDCreateString(NULL, uuid);
+NSString *uniqueIdentifier = [NSString stringWithFormat:@"%@", uuidStr];</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>54F818EF-98D5-4C17-8779-AEAE16B1FFF8</string>
 	<key>IDECodeSnippetLanguage</key>
