@@ -11,3 +11,8 @@ To install snippets just copy *.codesnippet files into folder:
 ## Using Snippets
 
 In Xcode 4, open a workspace and toggle the right sidebar to be visible. On the bottom, there is a panel with four icons in the header. Click on the { } icon to open the Code Snippets Library.
+
+## Contact:
+
+- [Javi Lorbada](mailto:javugi@gmail.com) 
+- Follow [@javi_lorbada](https://twitter.com/javi_lorbada) on twitter
