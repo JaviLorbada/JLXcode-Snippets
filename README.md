@@ -16,3 +16,4 @@ In Xcode 4, open a workspace and toggle the right sidebar to be visible. On the 
 
 - [Javi Lorbada](mailto:javugi@gmail.com) 
 - Follow [@javi_lorbada](https://twitter.com/javi_lorbada) on twitter
+- http://javilorbada.me/
