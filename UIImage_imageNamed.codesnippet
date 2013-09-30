@@ -3,27 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>methodDoc</string>
+	<string>inamed</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/**
- *  &lt;#Description#&gt;
- *
- *  @param void &lt;#void description#&gt;
- *
- *  @return &lt;#return value description#&gt;
- */</string>
+	<string>[UIImage imageNamed:@"&lt;#name#&gt;"]</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>7FE50893-FE18-4FBB-BE99-17F3E2322263</string>
+	<string>F9BBA84F-3F94-4D2F-9D2A-6D54AC69A9B8</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Generates objective-c doc comment automatically.</string>
+	<string>Declaration of UIImage</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Method Documentation Comment</string>
+	<string>UIImage imageNamed:</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

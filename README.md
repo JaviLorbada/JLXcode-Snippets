@@ -1,7 +1,7 @@
 JLXcode-Snippets
 ==============
 
-A bunch of snippets for XCode 4
+A bunch of snippets for XCode
 
 ## Installing Snippets
 
@@ -10,7 +10,7 @@ To install snippets just copy *.codesnippet files into folder:
 
 ## Using Snippets
 
-In Xcode 4, open a workspace and toggle the right sidebar to be visible. On the bottom, there is a panel with four icons in the header. Click on the { } icon to open the Code Snippets Library.
+In Xcode, open a workspace and toggle the right sidebar to be visible. On the bottom, there is a panel with four icons in the header. Click on the { } icon to open the Code Snippets Library.
 
 ## Contact:
 

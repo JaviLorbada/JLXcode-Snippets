@@ -3,27 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>methodDoc</string>
+	<string>pragmaMark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/**
- *  &lt;#Description#&gt;
- *
- *  @param void &lt;#void description#&gt;
- *
- *  @return &lt;#return value description#&gt;
- */</string>
+	<string>#pragma mark - &lt;#pragma name#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>7FE50893-FE18-4FBB-BE99-17F3E2322263</string>
+	<string>57FCCA0F-A686-473C-A0E6-A4A011CA1422</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Generates objective-c doc comment automatically.</string>
+	<string>Pragma mark snippet</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Method Documentation Comment</string>
+	<string>Pragma mark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
