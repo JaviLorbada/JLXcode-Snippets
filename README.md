@@ -1,4 +1,4 @@
-JLXcode-Snippets
+JLXcode-Snippets [![License MIT](http://b.repl.ca/v1/License-MIT-blue.png)](https://github.com/JaviLorbada/JLXcode-Snippets/blob/master/LICENSE) 
 ==============
 
 A bunch of snippets for XCode
@@ -44,6 +44,10 @@ In Xcode, open a workspace and toggle the right sidebar to be visible. On the bo
 ## Credits:
 
 Thanks to [@mneorr](https://github.com/mneorr) and his project [snippie](https://github.com/mneorr/snippie) in order to generate the cheatsheet and the readable_snippets folder.
+
+## License:
+
+All the snippets are released under a [MIT-License](http://opensource.org/licenses/MIT). See [License](https://github.com/JaviLorbada/JLXcode-Snippets/blob/master/LICENSE) file for more info.
 
 ## Contact:
 
