@@ -1,7 +1,7 @@
 JLXcode-Snippets [![License MIT](http://b.repl.ca/v1/License-MIT-blue.png)](https://github.com/JaviLorbada/JLXcode-Snippets/blob/master/LICENSE) 
 ==============
 
-A bunch of snippets for XCode
+A bunch of snippets for Xcode
 
 ## Installing Snippets
 
