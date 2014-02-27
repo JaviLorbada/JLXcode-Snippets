@@ -37,9 +37,11 @@ In Xcode, open a workspace and toggle the right sidebar to be visible. On the bo
 * Property NSNumber - `pNumber`
 * Property String - `pString`
 * Singleton Instance - `singleton`
+* Strongself - `strongself`
 * UDID Generator - `udidCreate`
 * UIImage imageNamed: - `inamed`
 * UITableView Delegates - `tableViewDel`
+* Weakself - `weakself`
 
 ## Credits:
 
