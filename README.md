@@ -43,9 +43,12 @@ In Xcode, open a workspace and toggle the right sidebar to be visible. On the bo
 * UITableView Delegates - `tableViewDel`
 * Weakself - `weakself`
 
+
 ## Credits:
 
 Thanks to [@mneorr](https://github.com/mneorr) and his project [snippie](https://github.com/mneorr/snippie) in order to generate the cheatsheet and the readable_snippets folder.
+
+Thanks to [@schukin](https://github.com/schukin) and his project [Fucking Block Syntax Autocompletion](https://github.com/schukin/Fucking-Block-Syntax-Autocompletion).
 
 ## License:
 
